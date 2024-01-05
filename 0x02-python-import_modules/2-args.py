@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-if __name_- == "__main__":
+if __name__== "__main__":
 	"""prints the number of a list of arguments."""
 	import os
 
