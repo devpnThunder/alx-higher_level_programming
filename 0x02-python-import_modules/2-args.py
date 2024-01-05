@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 if __name__== "__main__":
 	"""prints the number of a list of arguments."""
-	import os
+	import sys
 
-	count = len(sys.argv0 - 1
+	count = len(sys.argv - 1
 	if count == 0:
 		print("0 arguments.")
 	elif count == 1:
